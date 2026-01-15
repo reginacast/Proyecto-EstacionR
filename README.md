@@ -27,5 +27,5 @@ Además, el proyecto incluye una sección dedicada a la metodología de la encue
 * **Imágenes/**: Recursos visuales del reporte.
 
 ---
-**Nota:** El archivo de datos original (`ENOE_SDEMT225.csv`) no se incluye en el repositorio por su peso (>100MB), pero puede descargarse en el sitio oficial del INEGI. **[ENOE INEGI](https://www.inegi.org.mx/programas/enoe/15ymas/#microdatos)**
+**Nota:** El archivo de datos original (`ENOE_SDEMT225.csv`) no se incluye en el repositorio por su peso (>100MB), pero puede descargarse en el sitio oficial del INEGI. Para ir al sitio da click aquí: **[ENOE INEGI](https://www.inegi.org.mx/programas/enoe/15ymas/#microdatos)**
 
