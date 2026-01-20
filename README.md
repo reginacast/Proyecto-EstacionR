@@ -15,12 +15,12 @@ Para profundizar en estos fenómenos, el análisis se estructura en torno a **cu
 
 Además, el proyecto incluye una sección dedicada a la metodología de la encuesta y su complejidad estadística. Se documenta paso a paso el proceso técnico realizado en **R**, desde la limpieza de la base de datos hasta la aplicación de factores de expansión y el diseño muestral, garantizando la validez de los resultados finales.
 
-## 🛠️ Herramientas Utilizadas
+## 🛠️ Tecnologías y Librerías
 * **Lenguaje:** R 
 * **Librerías principales:** `tidyverse` (limpieza), `ggplot2` (visualización), `survey` (diseño muestral).
 * **Fuente de datos:** INEGI - ENOE 2025 (Trimestre 2).
 
-## 📂 Contenido del Repositorio
+## 📂 Estructura del Repositorio
 * [Proyecto.Rmd](Proyecto.Rmd): Código fuente principal (R Markdown).
 * [Proyecto.html](Proyecto.html): Resultado final del análisis ejecutado.
 * **Descriptor de base de datos/**: Documentación técnica de las variables.
