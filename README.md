@@ -4,7 +4,7 @@ Este proyecto analiza cómo el acceso al empleo y las trayectorias profesionales
 
 ## 🚀 Cómo ver el análisis
 Para una experiencia visual e interactiva sin necesidad de descargar el código, puedes consultar el reporte final aquí:
-👉 **[Ver reporte interactivo en RPubs](https://rpubs.com/reginacastaneda/1385642)**
+👉 **[Ver reporte en RPubs](https://rpubs.com/reginacastaneda/1385642)**
 
 ---
 
